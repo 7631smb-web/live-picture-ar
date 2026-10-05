@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تابلوی زنده</string>
+    <string name="main_hint">برای هر تابلو یک تصویر و یک ویدیو انتخاب کنید. سپس «شروع اسکن» را بزنید و دوربین را به سمت تابلو بگیرید تا ویدیو روی آن پخش شود.</string>
+    <string name="empty_list">هنوز هیچ تابلویی اضافه نشده است.</string>
+    <string name="add_target">افزودن تابلو</string>
+    <string name="start_scan">شروع اسکن</string>
+    <string name="now_pick_video">حالا ویدیوی این تابلو را انتخاب کنید</string>
+    <string name="details_title">مشخصات تابلو</string>
+    <string name="hint_name">نام تابلو</string>
+    <string name="hint_width">عرض واقعی تصویر چاپ‌شده (سانتی‌متر، اختیاری)</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">انصراف</string>
+    <string name="saving">در حال ذخیره…</string>
+    <string name="saved">تابلو ذخیره شد</string>
+    <string name="save_failed">ذخیره ناموفق بود: %1$s</string>
+    <string name="delete_confirm">«%1$s» حذف شود؟</string>
+    <string name="delete">حذف</string>
+    <string name="no_targets">ابتدا حداقل یک تابلو اضافه کنید</string>
+    <string name="width_auto">عرض: خودکار</string>
+    <string name="width_cm">عرض: %1$s سانتی‌متر</string>
+
+    <string name="status_loading">در حال آماده‌سازی تصاویر…</string>
+    <string name="status_point">دوربین را به سمت تابلو بگیرید</string>
+    <string name="status_playing">در حال پخش: %1$s</string>
+    <string name="status_tracking_lost">دستگاه را آرام حرکت دهید…</string>
+    <string name="status_skipped">این تصاویر جزئیات کافی برای ردیابی ندارند: %1$s</string>
+    <string name="mute">بی‌صدا</string>
+    <string name="unmute">صدادار</string>
+    <string name="camera_permission_needed">برای واقعیت افزوده، دسترسی به دوربین لازم است</string>
+    <string name="arcore_error">ARCore روی این دستگاه در دسترس نیست: %1$s</string>
+    <string name="cv_mode_prefix">[حالت سازگار]</string>
+    <string name="camera_unavailable">دوربین در دسترس نیست. برنامه را دوباره باز کنید.</string>
+</resources>
